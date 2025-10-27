@@ -108,8 +108,16 @@ Install all dependencies with:
 ```bash
 pip install -r requirements.txt
 ```
+## 📸 Screenshots
 
----
+### Homepage
+![Homepage](screenshots/homepage.png)
+
+### Analysis Statistics
+![Statistics](screenshots/statistics.png)
+
+### Environment Setup Success
+![Test Setup Success](screenshots/test_setup_success.png)
 
 ## 🙏 Acknowledgments
 
